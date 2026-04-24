@@ -1,0 +1,12 @@
+{
+  "name": "inwx-dns",
+  "version": "1.0.0",
+  "description": "Manage domains and DNS records via INWX API (domrobot XML-RPC)",
+  "author": {
+    "name": "Marcel R. G. Berger",
+    "email": "hello@marcelrgberger.com"
+  },
+  "repository": "https://github.com/marcelrgberger/inwx-dns",
+  "license": "MIT",
+  "keywords": ["inwx", "dns", "domain", "registrar", "transfer"]
+}
