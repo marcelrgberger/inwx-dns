@@ -5,7 +5,11 @@ A Claude Code plugin for managing domains and DNS records via the [INWX](https:/
 ## Installation
 
 ```bash
-claude plugin add inwx-dns
+# Add marketplace
+claude plugins marketplace add marcelrgberger/inwx-dns
+
+# Install plugin
+claude plugins install inwx-dns
 ```
 
 Requires Python 3 and the `inwx-domrobot` package (installed automatically when needed).

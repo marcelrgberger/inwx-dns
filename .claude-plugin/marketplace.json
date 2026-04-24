@@ -1,0 +1,11 @@
+{
+  "name": "inwx-dns",
+  "description": "Manage domains and DNS records via INWX API",
+  "plugins": [
+    {
+      "name": "inwx-dns",
+      "path": ".",
+      "description": "INWX domain and DNS management for Claude Code"
+    }
+  ]
+}
