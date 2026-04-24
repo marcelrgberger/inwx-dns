@@ -1,11 +1,21 @@
 {
   "name": "inwx-dns",
-  "description": "Manage domains and DNS records via INWX API",
+  "owner": {
+    "name": "Marcel R. G. Berger"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Manage domains and DNS records via INWX API"
+  },
   "plugins": [
     {
       "name": "inwx-dns",
-      "path": ".",
-      "description": "INWX domain and DNS management for Claude Code"
+      "source": "./",
+      "description": "INWX domain and DNS management for Claude Code — full API coverage for domains, DNS records, contacts, DNSSEC, DynDNS, and certificates.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Marcel R. G. Berger"
+      }
     }
   ]
 }
